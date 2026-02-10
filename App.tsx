@@ -1,6 +1,6 @@
 
 import React from 'react';
-import LandingPage from './components/LandingPage';
+import LandingPage from './src/components/LandingPage';
 
 const App: React.FC = () => {
   return (
